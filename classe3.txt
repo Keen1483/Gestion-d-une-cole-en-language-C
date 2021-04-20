@@ -1,0 +1,11 @@
+Ateba
+Note Excel: 13.350000
+Note Java: 14.000000
+Note Matlab: 10.750000
+Moyenne: 12.700000
+
+Nom: Tienne kouga
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000

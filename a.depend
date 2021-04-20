@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1512373858 source:c:\users\keengeraud\desktop\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+
+1512367917 c:\users\keengeraud\desktop\a\constante.h
+
+1512368373 c:\users\keengeraud\desktop\a\basic_function.h
+
+1512373821 source:c:\users\keengeraud\desktop\a\basic_function.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+
+1512368625 source:c:\users\keengeraud\desktop\a\extension.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+

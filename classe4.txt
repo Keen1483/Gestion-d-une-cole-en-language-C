@@ -1,0 +1,10 @@
+Nom: Kasse junior
+Note Excel: 15.000000
+Note Java: 14.000000
+Note Matlab: 12.000000
+Moyenne: 13.666667
+Nom: Guimzo richard
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000

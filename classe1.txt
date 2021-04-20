@@ -1,0 +1,20 @@
+Nom: Dongmo
+Note Excel: 15.000000
+Note Java: 13.000000
+Note Matlab: 14.000000
+Moyenne: 14.000000
+Nom: Ndjebe keen
+Note Excel: 14.630000
+Note Java: 18.000000
+Note Matlab: 15.500000
+Moyenne: 16.043333
+Nom: Troski medev
+Note Excel: 16.000000
+Note Java: 11.520000
+Note Matlab: 14.500000
+Moyenne: 14.006667
+Nom: Nana
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000

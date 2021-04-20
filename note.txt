@@ -1,0 +1,127 @@
+
+Nom: Ateba
+Note Excel: 12.000000
+Note Java: 14.000000
+Note Matlab: 13.000000
+Moyenne: 13.000000
+Rang: 2
+Nom: Dongmo
+Note Excel: 12.000000
+Note Java: 14.000000
+Note Matlab: 13.000000
+Moyenne: 13.000000
+Rang: 2
+Nom: Demanou
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: Ayissi
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: TALE
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Dongmo
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+cDongmo
+Note Excel: 15.000000
+Note Java: 13.000000
+Note Matlab: 14.000000
+Moyenne: 14.000000
+Rang: 1
+bDongmo
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Ateba
+Note Excel: 13.350000
+Note Java: 14.000000
+Note Matlab: 10.750000
+Moyenne: 12.700000
+Rang: 2
+Kana
+Note Excel: 13.350000
+Note Java: 14.000000
+Note Matlab: 10.750000
+Moyenne: 12.700000
+Rang: 2
+Nom: Kasse junior
+Note Excel: 15.000000
+Note Java: 14.000000
+Note Matlab: 12.000000
+Moyenne: 13.666667
+Rang: 2
+Nom: Zomissi kenfack
+Note Excel: 15.000000
+Note Java: 14.000000
+Note Matlab: 12.000000
+Moyenne: 13.666667
+Rang: 2
+Nom: Hamide
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: Ndjebe keen
+Note Excel: 14.630000
+Note Java: 18.000000
+Note Matlab: 15.500000
+Moyenne: 16.043333
+Rang: 1
+Nom: Troski medev
+Note Excel: 16.000000
+Note Java: 11.520000
+Note Matlab: 14.500000
+Moyenne: 14.006667
+Rang: 1
+Nom: Meuga simeu
+Note Excel: 14.000000
+Note Java: 10.000000
+Note Matlab: 17.000000
+Moyenne: 13.666667
+Rang: 2
+Nom: Wesley george
+Note Excel: 14.000000
+Note Java: 10.000000
+Note Matlab: 17.000000
+Moyenne: 13.666667
+Rang: 2
+Nom: Djanka yannick
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: Guimzo richard
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: Tienne kouga
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1
+Nom: Nana
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Rang: 1

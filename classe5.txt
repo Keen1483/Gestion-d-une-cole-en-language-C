@@ -1,0 +1,10 @@
+Nom: Hamide
+Note Excel: -1.000000
+Note Java: -1.000000
+Note Matlab: -1.000000
+Moyenne: -1.000000
+Nom: Meuga simeu
+Note Excel: 14.000000
+Note Java: 10.000000
+Note Matlab: 17.000000
+Moyenne: 13.666667

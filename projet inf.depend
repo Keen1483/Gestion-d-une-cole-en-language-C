@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1512373821 source:c:\users\keengeraud\desktop\projet inf\basic_function.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+
+1512367917 c:\users\keengeraud\desktop\projet inf\constante.h
+
+1512368373 c:\users\keengeraud\desktop\projet inf\basic_function.h
+
+1512368625 source:c:\users\keengeraud\desktop\projet inf\extension.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+
+1512373858 source:c:\users\keengeraud\desktop\projet inf\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+
+1516554371 source:c:\users\keengeraud\desktop\a\extension.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
+1515441547 c:\users\keengeraud\desktop\a\constante.h
+
+1515746304 c:\users\keengeraud\desktop\a\basic_function.h
+
+1516555397 source:c:\users\keengeraud\desktop\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
+1515759925 source:c:\users\keengeraud\desktop\a\basic_function.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
+1516558616 c:\users\keengeraud\desktop\a\extension.h
+
+1515759925 source:c:\users\keengeraud\desktop\projet inf 325\basic_function.c
+	<stdio.h>
+	<stdlib.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
+1515441547 c:\users\keengeraud\desktop\projet inf 325\constante.h
+
+1515746304 c:\users\keengeraud\desktop\projet inf 325\basic_function.h
+
+1516558616 c:\users\keengeraud\desktop\projet inf 325\extension.h
+
+1516639196 source:c:\users\keengeraud\desktop\projet inf 325\extension.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
+1516623670 source:c:\users\keengeraud\desktop\projet inf 325\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constante.h"
+	"basic_function.h"
+	"extension.h"
+
